@@ -1,5 +1,5 @@
 <h1>Glossary</h1>
-<h2>*Definitions quoted or modified from Cleveland & Morris (2015) Dictionary of Energy, Elsevier, unless otherwise indicated</h2>
+<li>*Definitions quoted or modified from Cleveland & Morris (2015) Dictionary of Energy, Elsevier, unless otherwise indicated</li>
 <ul>
 <li><a id="AcidRain">Acid rain</a>
 <ul>
